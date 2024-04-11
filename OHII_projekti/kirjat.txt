@@ -1,0 +1,77 @@
+J.K. Rowling,Harry Potter and the Sorcerer's Stone,1997
+George Orwell,1984,1949
+J.R.R. Tolkien,The Lord of the Rings,1954
+Harper Lee,To Kill a Mockingbird,1960
+Jane Austen,Pride and Prejudice,1813
+F. Scott Fitzgerald,The Great Gatsby,1925
+Leo Tolstoy,War and Peace,1869
+Mark Twain,Adventures of Huckleberry Finn,1884
+J.D. Salinger,The Catcher in the Rye,1951
+Gabriel García Márquez,One Hundred Years of Solitude,1967
+Herman Melville,Moby-Dick,1851
+Mary Shelley,Frankenstein,1818
+Fyodor Dostoevsky,Crime and Punishment,1866
+Charles Dickens,A Tale of Two Cities,1859
+Ernest Hemingway,The Old Man and the Sea,1952
+Charlotte Brontë,Jane Eyre,1847
+Miguel de Cervantes,Don Quixote,1605
+Arthur Conan Doyle,The Adventures of Sherlock Holmes,1892
+Victor Hugo,Les Misérables,1862
+Aldous Huxley,Brave New World,1932
+Louisa May Alcott,Little Women,1868
+Agatha Christie,And Then There Were None,1939
+John Steinbeck,Of Mice and Men,1937
+Ray Bradbury,Fahrenheit 451,1953
+H.G. Wells,The War of the Worlds,1898
+Jules Verne,20,000 Leagues Under the Sea,1870
+Kazuo Ishiguro,Never Let Me Go,2005
+Margaret Atwood,The Handmaid's Tale,1985
+Ken Kesey,One Flew Over the Cuckoo's Nest,1962
+Alice Walker,The Color Purple,1982
+Philip K. Dick,Do Androids Dream of Electric Sheep?,1968
+T.S. Eliot,The Waste Land,1922
+Edgar Allan Poe,The Tell-Tale Heart,1843
+Herman Melville,Billy Budd, Sailor,1924
+Virginia Woolf,To the Lighthouse,1927
+Mark Twain,The Adventures of Tom Sawyer,1876
+Margaret Mitchell,Gone with the Wind,1936
+Nathaniel Hawthorne,The Scarlet Letter,1850
+Truman Capote,In Cold Blood,1966
+George Eliot,Middlemarch,1871
+Ken Follett,The Pillars of the Earth,1989
+Ayn Rand,Atlas Shrugged,1957
+Ernest Hemingway,A Farewell to Arms,1929
+Albert Camus,The Stranger,1942
+Khaled Hosseini,The Kite Runner,2003
+Dante Alighieri,Divine Comedy,1320
+Mario Puzo,The Godfather,1969
+A.A. Milne,Winnie-the-Pooh,1926
+John Green,The Fault in Our Stars,2012
+Hermann Hesse,Siddhartha,1922
+Gabriel García Márquez,Chronicle of a Death Foretold,1981
+H.G. Wells,The Time Machine,1895
+Yann Martel,Life of Pi,2001
+Vladimir Nabokov,Lolita,1955
+Margaret Atwood,The Testaments,2019
+Daphne du Maurier,Rebecca,1938
+Albert Camus,The Plague,1947
+Philip Pullman,His Dark Materials,1995
+Emily Dickinson,Selected Poems,1890
+Walt Whitman,Leaves of Grass,1855
+John le Carré,The Spy Who Came in from the Cold,1963
+Roald Dahl,Charlie and the Chocolate Factory,1964
+Daniel Defoe,Robinson Crusoe,1719
+Suzanne Collins,The Hunger Games,2008
+Homer,The Odyssey,800
+Edgar Allan Poe,The Raven,1845
+Jorge Luis Borges,Ficciones,1944
+Haruki Murakami,Norwegian Wood,1987
+E.M. Forster,A Passage to India,1924
+Ernest Hemingway,The Sun Also Rises,1926
+F. Scott Fitzgerald,Tender Is the Night,1934
+Albert Camus,The Fall,1956
+Gustave Flaubert,Madame Bovary,1856
+Adolf Hitler,Mein Kampf,1943
+Carl-Johan Forssen Ehrlinin,Kani joka tahtoi nukahtaa,2015
+Aino Havukainen,Tatu ja Patu - kovaa menoa kiskoilla,2020
+Aino Havukainen,Tatu ja Patu supersankareina,2010
